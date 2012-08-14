@@ -1,0 +1,27 @@
+# especificação da entrada do automato afd
+# cada arquivo especifica: o alfabeto, os estados, os estados finais, 
+# as transições e várias palavras
+
+#alfabeto
+numero_de_letras
+letra letra ... letra
+#estados
+numero_de_estados
+estado estado ... estado
+#estados finais
+numero_de_estados_finais
+estado_final estado_final ... estado_final
+#transições
+numero_de_transicoes
+estado letra estado
+estado letra estado
+...
+estado letra estado
+#palavras
+numero_de_palavras
+palavra
+palavra
+...
+palavra
+
+

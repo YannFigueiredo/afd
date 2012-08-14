@@ -1,0 +1,2 @@
+1: numero impar de b's
+2: numero de a's eh multiplo de 4 e numero par de b's
